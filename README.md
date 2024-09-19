@@ -1,7 +1,6 @@
 I've created a comprehensive Tableau dashboard that dives deep into the world of Netflix, offering valuable insights into:
+Release Year Analysis: Discover the most popular release years for movies and TV shows.
+Content Type Trends: Explore the prevalence of different genres and formats (e.g., movies, series, documentaries).
+Content Performance: Analyze the correlation between release date, content type, and viewer engagement.
 Content Trends: Discover the most popular genres, release years, and ratings.
-Audience Behavior: Analyze viewer preferences, watch times, and binge-watching patterns.
-Content Performance: Evaluate the success of original content vs. licensed shows
-By leveraging data visualization and advanced analytics, this dashboard provides a unique perspective on Netflix's vast content library. Whether you're a Netflix enthusiast or an industry professional, this dashboard offers valuable insights and opportunities for further exploration.
-Join the conversation and share your thoughts on the future of streaming platforms!
-#Netflix #DataAnalytics #PowerBI #DataVisualization #Entertainment"
+By leveraging data visualization and advanced analytics, this dashboard offers a unique perspective on Netflix's content library, enabling you to understand the factors driving their success. Whether you're a Netflix enthusiast or an industry professional, this dashboard offers valuable insights and opportunities for further exploration.
